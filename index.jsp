@@ -12,7 +12,7 @@
 			<td><h1>HIT - devops students survey</h1></td>
 		</tr>
 		<tr >
-			<td><h2>What degree are you studying</h2></td>
+			<td><h2>Which degree are you studying</h2></td>
 		</tr>
 		<tr>
 			<td>
