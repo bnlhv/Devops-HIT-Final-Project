@@ -9,7 +9,7 @@
 <body style="background-color:#00BFFF;" align="center" width = "100%" border = "0" >
 	<table style="width:100%">
 		<tr >
-			<td><h1>HIT - devops students survey</h1></td>
+			<td><h1>HIT - best devops students survey</h1></td>
 		</tr>
 		<tr >
 			<td><h2>Which degree are you studying</h2></td>
